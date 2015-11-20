@@ -1,7 +1,7 @@
 #! /bin/bash
 #
 # sartool.bash
-# Copyright (C) 2015 Hannes|L3 <hanbel@de.ibm.com>
+# Copyright (C) 2015 Hannes <git@bellmer.org>
 #
 #Path to SAR executable, usefull if you want to plot files from OLDER SAR data
 SAR=/usr/bin/sar
